@@ -1,2 +1,2 @@
 print ("pierwsza linijka")
-print ("druga linijka")
+print ("zedytowana linijka")
