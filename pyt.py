@@ -1,2 +1,2 @@
-print ("pierwsza linijka")
-print ("zedytowana linijka")
+print ("pierwsza linijka github")
+print ("druga linijka github")
